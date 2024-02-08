@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sound firmwareVersion="3.1.4" earliestCompatibleFirmware="3.1.0-beta" polyphonic="poly" voicePriority="1" mode="subtractive" lpfMode="24dB" modFXType="none">
+<osc1 type="sample" loopMode="0" reversed="0" timeStretchEnable="0" timeStretchAmount="0">
+	<sampleRanges>
+		<sampleRange rangeTopNote="57" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes G2.wav" transpose="5" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="58" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes G#2.wav" transpose="4" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="59" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes A2.wav" transpose="3" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="60" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes A#2.wav" transpose="2" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="61" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes B2.wav" transpose="1" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="62" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes C3.wav" transpose="0" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="63" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes C#3.wav" transpose="-1" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="64" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes D3.wav" transpose="-2" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="65" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes D#3.wav" transpose="-3" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="66" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes E3.wav" transpose="-4" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="67" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes F3.wav" transpose="-5" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="68" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes F#3.wav" transpose="-6" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="69" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes G3.wav" transpose="-7" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="70" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes G#3.wav" transpose="-8" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="71" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes A3.wav" transpose="-9" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="72" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes A#3.wav" transpose="-10" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="73" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes B3.wav" transpose="-11" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="74" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes C4.wav" transpose="-12" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="75" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes C#4.wav" transpose="-13" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="76" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes D4.wav" transpose="-14" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="77" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes D#4.wav" transpose="-15" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="78" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes E4.wav" transpose="-16" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="79" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes F4.wav" transpose="-17" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="80" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes F#4.wav" transpose="-18" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="81" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes G4.wav" transpose="-19" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="82" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes G#4.wav" transpose="-20" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="83" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes A4.wav" transpose="-21" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="84" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes A#4.wav" transpose="-22" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="85" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes B4.wav" transpose="-23" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="86" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes C5.wav" transpose="-24" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="87" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes C#5.wav" transpose="-25" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="88" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes D5.wav" transpose="-26" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="89" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes D#5.wav" transpose="-27" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="90" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes E5.wav" transpose="-28" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+		<sampleRange rangeTopNote="91" fileName="SAMPLES/Multisamples/Sonic Bloom Mellotron/Vibes/Vibes F5.wav" transpose="-29" cents="0">
+			<zone startSamplePos="0" endSamplePos="382821"/>	</sampleRange>
+</sampleRanges>
+</osc1>
+<osc2 type="square" transpose="0" cents="0" retrigPhase="-1"/>	<lfo1 type="triangle" syncLevel="0"/>	<lfo2 type="triangle"/>	<unison num="1" detune="8"/>	<compressor syncLevel="7" attack="327244" release="936"/>	<delay pingPong="1" analog="0" syncLevel="7"/>	<defaultParams arpeggiatorGate="0x00000000" portamento="0x80000000" compressorShape="0xDC28F5B2" oscAVolume="0x7FFFFFFF" oscAPulseWidth="0x00000000" oscBVolume="0x80000000" oscBPulseWidth="0x00000000" noiseVolume="0x80000000" volume="0x4CCCCCA8" pan="0x00000000" lpfFrequency="0x7FFFFFFF" lpfResonance="0x80000000" hpfFrequency="0x80000000" hpfResonance="0x80000000" lfo1Rate="0x1999997E" lfo2Rate="0x00000000" modulator1Amount="0x80000000" modulator1Feedback="0x80000000" modulator2Amount="0x80000000" modulator2Feedback="0x80000000" carrier1Feedback="0x80000000" carrier2Feedback="0x80000000" modFXRate="0x00000000" modFXDepth="0x00000000" delayRate="0x00000000" delayFeedback="0x80000000" reverbAmount="0x80000000" arpeggiatorRate="0x00000000" stutterRate="0x00000000" sampleRateReduction="0x80000000" bitCrush="0x80000000" modFXOffset="0x00000000" modFXFeedback="0x00000000">
+		<envelope1 attack="0x80000000" decay="0xE6666654" sustain="0x7FFFFFFF" release="0x80000000"/>		<envelope2 attack="0xE6666654" decay="0xE6666654" sustain="0xFFFFFFE9" release="0xE6666654"/>		<patchCables>
+			<patchCable source="velocity" destination="volume" amount="0x3FFFFFE8"/>	</patchCables>
+		<equalizer bass="0x00000000" treble="0x00000000" bassFrequency="0x00000000" trebleFrequency="0x00000000"/></defaultParams>
+	<modKnobs>
+		<modKnob controlsParam="pan"/>		<modKnob controlsParam="volumePostFX"/>		<modKnob controlsParam="lpfResonance"/>		<modKnob controlsParam="lpfFrequency"/>		<modKnob controlsParam="env1Release"/>		<modKnob controlsParam="env1Attack"/>		<modKnob controlsParam="delayFeedback"/>		<modKnob controlsParam="delayRate"/>		<modKnob controlsParam="reverbAmount"/>		<modKnob controlsParam="volumePostReverbSend" patchAmountFromSource="compressor"/>		<modKnob controlsParam="pitch" patchAmountFromSource="lfo1"/>		<modKnob controlsParam="lfo1Rate"/>		<modKnob controlsParam="portamento"/>		<modKnob controlsParam="stutterRate"/>		<modKnob controlsParam="bitcrushAmount"/>		<modKnob controlsParam="sampleRateReduction"/></modKnobs>
+	<arpeggiator mode="off" numOctaves="2" syncLevel="7"/></sound>
